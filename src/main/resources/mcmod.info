@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "${modid}",
+    "name": "Wither Things",
+    "description": "Makes the wither a bigger pain in the arse",
+    "version": "${version}",
+    "mcversion": "1.12.2",
+	"url": "https://viciscat.github.io",
+	"updateUrl": "",
+	"authorList": [
+	  "Vic is a Cat"
+	],
+	"credits": "",
+	"logoFile": "",
+	"screenshots": [],
+	"dependencies": []
+  }
+]
